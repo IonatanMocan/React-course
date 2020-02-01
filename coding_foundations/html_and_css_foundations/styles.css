@@ -1,5 +1,6 @@
 body {
     margin: 0px;
+    font-family: 'Roboto', sans-serif;
 }
 
 .navigation-wrapper {
@@ -33,5 +34,14 @@ body {
 }
 
 .address-wrapper {
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
 
+.contact-hours-wrapper > .hours {
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+.nav-links a {
+    font-family: 'Ubuntu Condensed', sans-serif;
+    color: #fff;
 }
