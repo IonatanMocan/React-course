@@ -62,8 +62,3 @@ body {
     display: flex;
     justify-content: center;
 }
-
-.links-wrapper {
-    display: flex;
-    justify-content: space-between;
-}
