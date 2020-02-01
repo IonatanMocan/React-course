@@ -45,3 +45,8 @@ body {
     font-family: 'Ubuntu Condensed', sans-serif;
     color: #fff;
 }
+
+.banner-image img {
+    width: 216px;
+    height: 100%;
+}
