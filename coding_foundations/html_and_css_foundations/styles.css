@@ -14,16 +14,16 @@ body {
     padding: 60px 100px;
 }
 
-.left-column {  
+.navigation-wrapper > .left-column {
     display: flex;
     align-items: center;
 }
 
-.icon {
+.left-column > .icon {
     margin-right: 15px;
 }
 
-.icon i {
+.left-column > .icon i {
     font-size: 2em;
 }
 
@@ -33,20 +33,20 @@ body {
     grid-gap: 10px;
 }
 
-.address-wrapper {
+.right-column > .address-wrapper {
     font-family: 'Ubuntu Condensed', sans-serif;
 }
 
-.contact-hours-wrapper > .hours {
+.left-column > .contact-hours-wrapper > .hours {
     font-family: 'Ubuntu Condensed', sans-serif;
 }
 
-.nav-links a {
+.links-wrapper > .nav-link a {
     font-family: 'Ubuntu Condensed', sans-serif;
     color: #fff;
 }
-
-.banner-image img {
+ 
+.center-column > .banner-image img {
     width: 216px;
     height: 100%;
 }
