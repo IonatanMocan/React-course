@@ -1,1 +1,1 @@
-<?php include_once("/coding_foundations/home.html"); ?>
+<?php include_once("home.html"); ?>
