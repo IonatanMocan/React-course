@@ -26,6 +26,10 @@
     color: #11122b;
 }
 
+.form input:focus::-webkit-input-placeholder, .form textarea:focus::-webkit-input-placeholder {
+    color: transparent;
+}
+
 .form textarea:focus {
     outline: none;
     box-shadow: 0 1.5rem 2rem rgba(0, 0, 0, 0.1);
